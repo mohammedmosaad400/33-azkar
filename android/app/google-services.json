@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585780513262",
+    "project_id": "o2-11-azkar-xvjg",
+    "storage_bucket": "o2-11-azkar-xvjg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585780513262:android:0d5581e3077c9efddc66ff",
+        "android_client_info": {
+          "package_name": "com.street.azkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585780513262-e0268ka81i3pq33up3v32eqiu8vr8v2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.azkar",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "585780513262-b1m8do9ujbinjtc551038aabsi240h1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiP8VN8Ba0q-H2O09ok21kacv-s4MwPCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585780513262-b1m8do9ujbinjtc551038aabsi240h1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

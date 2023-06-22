@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/Program Files/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.1.6" />
+      <root url="file://C:/Program Files/flutter/.pub-cache/hosted/pub.dartlang.org/dialogflow_grpc-0.2.9" />
+      <root url="file://C:/Program Files/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-1.2.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
